@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/junsix_mac/coding-test/new-coding-test-study/junsik/4주차/구명보트",
+      "program": "/Users/junsix_mac/coding-test/new-coding-test-study/junsik/4주차/구명보트/build/Debug/outDebug"
+    }
+  ]
+}
